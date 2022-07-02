@@ -5,3 +5,5 @@ Find out which ip site very quickly
  
 get install 
 git clone https://github.com/AbanoubFlash/Scan-ip-tool-v.0.1 
+cd scan tool.py 
+python3 scan tool.py
